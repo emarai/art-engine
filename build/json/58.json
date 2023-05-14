@@ -1,0 +1,39 @@
+{
+  "name": "The Botaks #58",
+  "description": "The Botaks is an NFT collection",
+  "image": "ipfs://bafybeied6u2uxud7dza7aabnuu6d3u2eoymoin3nwe624puk66jy7psmeq/58.png",
+  "imageHash": "6dfbbe6c53c32f3b0953ca55dd2ef59725ed4ee2edaeb1711fcb4d19ef5cf6a4",
+  "edition": 58,
+  "date": 1684049003904,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "coulds"
+    },
+    {
+      "trait_type": "Back Accessory",
+      "value": "rockets"
+    },
+    {
+      "trait_type": "Head",
+      "value": "faceA"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt three"
+    },
+    {
+      "trait_type": "Shirt Accessories",
+      "value": "GOLDEN NECKLACE"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "purplehair"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

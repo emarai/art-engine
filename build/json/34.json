@@ -1,0 +1,43 @@
+{
+  "name": "The Botaks #34",
+  "description": "The Botaks is an NFT collection",
+  "image": "ipfs://bafybeied6u2uxud7dza7aabnuu6d3u2eoymoin3nwe624puk66jy7psmeq/34.png",
+  "imageHash": "caeae88e6b66b7061ccaac0f8e9a8afe62dabbd2ecbd5c7f7cb01f0f89638382",
+  "edition": 34,
+  "date": 1684049000203,
+  "attributes": [
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Glasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "stars"
+    },
+    {
+      "trait_type": "Back Accessory",
+      "value": "rockets"
+    },
+    {
+      "trait_type": "Head",
+      "value": "faceB"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt three"
+    },
+    {
+      "trait_type": "Shirt Accessories",
+      "value": "nametag"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bluehair"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
